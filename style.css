@@ -1,0 +1,141 @@
+
+.welcome_section{
+                    background-image: url("images/img1.jpg");
+                    height: 500px;
+                    width: 100%;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    color: white;
+                
+                   
+                }
+                .welcome_box{
+                    height: 500px;
+                    width: 60%;
+                    text-align: center;
+                    padding: 20px;
+                    padding-top: 80px;
+                    position: relative;
+                }
+                .welcome-box1{
+                    height: 150px;
+                    width: 300px;
+                    padding: 20px;
+                    position: absolute;
+                    top: 490px;
+                left: 40%;
+                
+                }
+                .welcome-box2{
+                    height: 150px;
+                    width: 300px;
+                    padding: 20px;
+                    top: 490px;
+                left: 65%;
+                    position: absolute;
+                
+                }
+                .our_company{
+                    background-image: url("images/img2.jpg");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    opacity: 0.8;
+                    color: white;
+                    padding: 50px;
+                    height: 200px;
+                    width: 100%;
+                }
+                .content-1{
+                    height: 580px;
+                    width: 100%;
+                    padding: 50px;
+                    padding-top: 80px;
+                }
+                .cont-1-box{
+                    padding: 20px;
+                }
+                .content-1 img{
+                    height: 450px;
+                    width: 100%;
+                    position: relative;
+                }
+                .content-1-box2{
+                    padding: 10px;
+                    
+                }
+                .our-service-box{
+                    padding: 15px;
+                    border: 2px solid rgb(55, 162, 198);
+                    width: 23%;
+                    border-radius: 15px;
+                    margin: 7px;
+                }
+                .tags_section{
+                    height: 300px;
+                    width: 100%;
+                    padding: 80px;
+                }
+                .our_service{
+                    padding: 20px 80px 20px 80px;
+                }
+                .accounting_section{
+                    height: 900px;
+                    width: 100%;
+                    padding: 30px;
+                }
+                .progress-box1{
+                    position: absolute;
+                    height: 140px;
+                    width: 240px ;
+                    padding: 10px;
+                    top: 2850px;
+                    left: 50%;
+                    text-align: center;
+                    border-radius: 5px;
+                    padding-left: 16px;
+                }
+                .accounting_content{
+                    border: 3px solid lightblue; 
+                    border-radius: 12px;
+                     padding: 15px;
+                     width: 30%;
+                     margin-right: 5px;
+                }
+                .trouble_section{
+                    height: 200px;
+                    width: 100%;
+                    padding: 30px;
+                    color: whitesmoke;
+                    text-align: center;
+                    background-image: url("https://www.shutterstock.com/image-photo/image-desks-office-style-blurred-260nw-2353880327.jpg");
+                }
+                .last-project{
+                    padding: 20px;
+                    height: 950px;
+                    width: 100%;
+                }
+                .faq{
+                    height: 465px;
+                    width: 100%;
+                    padding: 40px;
+                }
+                .faq-boxb{
+                    height: 50px;
+                    border: 2px solid white;
+                    border-radius: 4px;
+                    padding: 10px;
+                    margin-bottom: 5px;
+                }
+                .faq-boxa{
+                    height: 50px;
+                    border: 2px solid white;
+                    border-radius: 4px;
+                    padding: 10px;
+                    margin-bottom: 5px;
+                }
+                .latest_blog{
+                    height: 500px;
+                    width: 100%;
+                    padding: 60px;
+                }
+                
